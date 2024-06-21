@@ -1,4 +1,4 @@
-# Blind-Quality-Assessment-of-Stereoscopic-Omnidirectional-Images
+# BSOIQA
 
 - **Article title**: "Monocular and Binocular Interactions Oriented Deformable Convolutional Networks for Blind Quality Assessment of Stereoscopic Omnidirectional Images
 " ([link](https://ieeexplore.ieee.org/document/9536507))
